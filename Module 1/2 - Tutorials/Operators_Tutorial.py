@@ -1,4 +1,4 @@
-from math import sqrt, pow
+# !! use an import here for math !!
 
 # Let's run through some simple operations:
 
