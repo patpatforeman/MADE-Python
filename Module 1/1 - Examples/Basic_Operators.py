@@ -11,7 +11,7 @@ print(12 / 5)
 # You can even do division to get remainders!
 print(10 % 3)
 
-# It can even divide without the remainder
+# It can even divide to the integer, leaving no remainders
 print(10 // 3)
 
 # We can also raise things to a power

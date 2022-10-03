@@ -21,3 +21,7 @@ magnitude = -1
 # Use a print statement to check your work!
 # Answer should be around 28.
 print()
+
+# Now, try to do that process all in one step!
+magnitude_two = -1
+print()

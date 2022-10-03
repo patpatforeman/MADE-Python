@@ -13,3 +13,10 @@ print("5 squared is: " + str(power))
 root = math.sqrt(25)
 print("The square root of 25 is: " + str(root))
 
+# Trig functions are also included in this module
+cos = math.cos(math.pi)
+print("The cosine of pi is: " + str(cos))
+
+# There are a lot of functions within this module, so don't be
+# afraid to look up what all is in the module
+
