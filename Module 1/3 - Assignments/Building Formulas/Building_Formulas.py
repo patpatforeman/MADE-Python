@@ -21,7 +21,7 @@ step_two = None
 # Step Three: Multiply the step_two by the Principal
 step_three = None
 
-# final should be around 1105, use a print statement to check:
+# step_three should be around 1105, use a print statement to check:
 
 
 # ----------------------------------------------------------------------------------------------------------------------
@@ -29,11 +29,11 @@ step_three = None
 # Now, build the same formula all in one line.
 
 # Here are the variables: DO NOT CHANGE
-r = 70    # Rate
+R = 70    # Rate
 N = 6     # n - exponent
 K = 2500  # Principal
 
 # write the equation here, using the variable names above:
 growth = None
 
-# Use a print statement to check your work:
+# Use a print statement to check your work, growth should be around 60,343:
