@@ -2,3 +2,4 @@
 .pycharm
 .DS_Store
 venv/
+*.pyc
