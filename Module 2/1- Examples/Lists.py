@@ -9,6 +9,12 @@ first_list = [1, 2, 3, 4]
 # Printing the list will show all of its contents:
 print(first_list)
 
+# If you're curious about the length of a list, or need it for
+# some parameter, the len() function will be useful.
+# Let's check out the length of first_list:
+list_length = len(first_list)
+print("The length of first_list is: " + str(list_length))
+
 # Creating an empty list is also an option.
 # Here are two ways to make empty lists:
 empty_list = []
