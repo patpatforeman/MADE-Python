@@ -1,44 +1,36 @@
-# this is practice on slicing arrays in Python.
-# slicing arrays is using the index to "slice" certain parts
-# of a list.
-# it relies on the use of a colon, and the indexes of the list.
+# This is some practice on slicing arrays in Python.
+# It will rely on the use of a colon, and the indexes of the list.
 
 list_one = [5, 10, 15, 20, 25, 30]
-example_list = ["red", "blue", "yellow", "green", "orange"]
 
-# to select the entire array, use just the colon, like so:
-colors = example_list[:]
-print("Colors in example_list: " + str(colors))
+# For the first task, copy list_one into List_one_copy
+# Remember, to access elements in a list, use brackets
+# at the end of the list's name: list_one[!!here!!]
+list_one_copy = None
 
-# now, you try: store all of "list" in the variable "numbers"
-numbers = None
+# Now use a print statement to check your work!
+# # Code Here # #
 
-
-# next, you can select everything from a certain index onward to the
-# end of the list
-favorites = example_list[3:]
-print("Favorite colors: " + str(favorites))
-
-# your turn: select the last 4 elements of list
+# Now, select all numbers greater than 10 from list_one!
 over_10 = None
 
+# Now use a print statement to check your work!
+# # Code Here # #
 
-# by moving the integer to behind the colon, you can select everything up
-# to a certain index in the list
-primary_colors = example_list[:2]
-print("All primary colors: " + str(primary_colors))
-
-# store all the numbers less than 20 in "list" using this method and
-# store it in the variable below
+# Next, store all the numbers less than 20 in under_20.
+# Recall that when using a colon, the number on the right when
+# called is not included in the slice.
 under_20 = None
 
+# Now use a print statement to check your work!
+# # Code Here # #
 
-# you can also choose to select from one index up until another index
-# the -1 index means up until the last element
+
+# For the last task, here is a list of names:
 names_list = ["Frank", "Sally", "Grant", "Amelia", "Ricardo", "Rachelle"]
-friends = names_list[2:-1]
-print("My friends: " + str(friends))
 
-# now, select the two numbers in the middle of "list"
-median = None
-print(median)
+# Select the 2nd through the 4th names in names_list
+median_names = None
+
+# Now use a print statement to check your work!
+# # Code Here # #
