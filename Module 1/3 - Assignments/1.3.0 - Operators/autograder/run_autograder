@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+
+# Set up autograder files
+
+cp -f /autograder/submission/*.py /autograder/source/student_submission.py
+
+cd /autograder/source
+
+#make fib
+
+python3 run_tests.py
